@@ -3,13 +3,13 @@
   "homepage": "https://jiunotes.top/en/culture/",
   "license": "CC BY 4.0",
   "checked_on": "2026-11-10",
-  "count": 36,
+  "count": 31,
   "facts": [
     {
       "id": 1,
       "topic": "holidays",
-      "claim": "For 2027, the Spring Festival public holiday runs from 5 February (Lunar New Year's Eve) to 13 February (the eighth day of the first lunar month) — 9 days, with 31 January and 14 February as make-up workdays.",
-      "figure": "9 days (5-13 Feb 2027)",
+      "claim": "For 2027, New Year's Day (元旦) falls on Friday 1 January; the statutory holiday runs 1-3 January, 3 days, with no make-up workday.",
+      "figure": "3 days (1-3 Jan 2027)",
       "source_url": "https://www.gov.cn/zhengce/content/202611/content_7085101.htm",
       "checked_on": "2026-11-10",
       "source_article_slug": "chinese-festivals-calendar"
@@ -17,8 +17,8 @@
     {
       "id": 2,
       "topic": "holidays",
-      "claim": "For 2027, New Year's Day (元旦) falls on 1 January (Friday); the holiday runs 1-3 January, 3 days, no make-up workday.",
-      "figure": "3 days (1-3 Jan 2027)",
+      "claim": "For 2027, the Spring Festival holiday runs 5 February (the eve of the lunar new year, Friday) to 13 February (the eighth day of the first lunar month, Saturday) — 9 days, with 31 January (Sunday) and 14 February (Sunday) as make-up workdays.",
+      "figure": "9 days (5-13 Feb 2027)",
       "source_url": "https://www.gov.cn/zhengce/content/202611/content_7085101.htm",
       "checked_on": "2026-11-10",
       "source_article_slug": "chinese-festivals-calendar"
@@ -26,7 +26,7 @@
     {
       "id": 3,
       "topic": "holidays",
-      "claim": "For 2027, Qingming (清明节) runs 3-5 April, 3 days, no make-up workday.",
+      "claim": "For 2027, Qingming (清明节) runs 3-5 April (Saturday to Monday), 3 days, with no make-up workday.",
       "figure": "3 days (3-5 Apr 2027)",
       "source_url": "https://www.gov.cn/zhengce/content/202611/content_7085101.htm",
       "checked_on": "2026-11-10",
@@ -35,7 +35,7 @@
     {
       "id": 4,
       "topic": "holidays",
-      "claim": "For 2027, Labour Day runs 1-5 May, 5 days, with 8 May as a make-up workday.",
+      "claim": "For 2027, Labour Day runs 1-5 May (Saturday to Wednesday), 5 days, with 8 May (Saturday) as a make-up workday.",
       "figure": "5 days (1-5 May 2027)",
       "source_url": "https://www.gov.cn/zhengce/content/202611/content_7085101.htm",
       "checked_on": "2026-11-10",
@@ -44,7 +44,7 @@
     {
       "id": 5,
       "topic": "holidays",
-      "claim": "For 2027, the Dragon Boat Festival (端午节) falls on 9 June (Wednesday) — a single day off, not stitched to a weekend.",
+      "claim": "For 2027, the Dragon Boat Festival (端午节) is a single day off on 9 June (Wednesday) — not stitched to a weekend.",
       "figure": "1 day (9 Jun 2027)",
       "source_url": "https://www.gov.cn/zhengce/content/202611/content_7085101.htm",
       "checked_on": "2026-11-10",
@@ -53,7 +53,7 @@
     {
       "id": 6,
       "topic": "holidays",
-      "claim": "For 2027, the Mid-Autumn Festival (中秋节) falls on 15 September (Wednesday) — a single day off.",
+      "claim": "For 2027, the Mid-Autumn Festival (中秋节) is a single day off on 15 September (Wednesday).",
       "figure": "1 day (15 Sep 2027)",
       "source_url": "https://www.gov.cn/zhengce/content/202611/content_7085101.htm",
       "checked_on": "2026-11-10",
@@ -62,7 +62,7 @@
     {
       "id": 7,
       "topic": "holidays",
-      "claim": "For 2027, the National Day holiday runs 1-7 October, 7 days, with 26 September and 9 October as make-up workdays.",
+      "claim": "For 2027, the National Day holiday runs 1-7 October (Friday to Thursday), 7 days, with 26 September (Sunday) and 9 October (Saturday) as make-up workdays.",
       "figure": "7 days (1-7 Oct 2027)",
       "source_url": "https://www.gov.cn/zhengce/content/202611/content_7085101.htm",
       "checked_on": "2026-11-10",
@@ -71,263 +71,218 @@
     {
       "id": 8,
       "topic": "holidays",
-      "claim": "For 2026, the Spring Festival public holiday ran 15-23 February (Lunar 12th month 28th to 1st month 7th) — 9 days, with 14 February and 28 February as make-up workdays.",
-      "figure": "9 days (15-23 Feb 2026)",
-      "source_url": "http://www.fzxf.gov.cn/art/2026/1/5/art_21707_4411405.html",
+      "claim": "For 2026, New Year's Day (元旦) ran 1-3 January, 3 days, with 4 January (Sunday) as a make-up workday.",
+      "figure": "3 days (1-3 Jan 2026)",
+      "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047091.htm",
       "checked_on": "2026-11-10",
       "source_article_slug": "chinese-festivals-calendar"
     },
     {
       "id": 9,
       "topic": "holidays",
-      "claim": "For 2026, New Year's Day (元旦) ran 1-3 January, 3 days, with 4 January as a make-up workday.",
-      "figure": "3 days (1-3 Jan 2026)",
-      "source_url": "http://www.fzxf.gov.cn/art/2026/1/5/art_21707_4411405.html",
+      "claim": "For 2026, the Spring Festival holiday ran 15 February (the 28th day of the 12th lunar month Sunday) to 23 February (the 7th day of the first lunar month, Monday) — 9 days, with 14 February and 28 February as make-up workdays.",
+      "figure": "9 days (15-23 Feb 2026)",
+      "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047091.htm",
       "checked_on": "2026-11-10",
-      "source_article_slug": "chinese-festivals-calendar"
+      "source_article_slug": "chinese-new-year-explained"
     },
     {
       "id": 10,
       "topic": "holidays",
-      "claim": "For 2026, Qingming (清明节) ran 4-6 April, 3 days, no make-up workday.",
+      "claim": "For 2026, Qingming (清明节) ran 4-6 April (Saturday to Monday), 3 days, with no make-up workday.",
       "figure": "3 days (4-6 Apr 2026)",
-      "source_url": "http://www.fzxf.gov.cn/art/2026/1/5/art_21707_4411405.html",
+      "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047091.htm",
       "checked_on": "2026-11-10",
       "source_article_slug": "chinese-festivals-calendar"
     },
     {
       "id": 11,
       "topic": "holidays",
-      "claim": "For 2026, Labour Day ran 1-5 May, 5 days, with 9 May as a make-up workday.",
+      "claim": "For 2026, Labour Day ran 1-5 May (Friday to Tuesday), 5 days, with 9 May (Saturday) as a make-up workday.",
       "figure": "5 days (1-5 May 2026)",
-      "source_url": "http://www.fzxf.gov.cn/art/2026/1/5/art_21707_4411405.html",
+      "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047091.htm",
       "checked_on": "2026-11-10",
       "source_article_slug": "chinese-festivals-calendar"
     },
     {
       "id": 12,
       "topic": "holidays",
-      "claim": "For 2026, the Dragon Boat Festival (端午节) ran 19-21 June, 3 days.",
+      "claim": "For 2026, the Dragon Boat Festival (端午节) ran 19-21 June (Friday to Sunday), 3 days.",
       "figure": "3 days (19-21 Jun 2026)",
-      "source_url": "http://www.fzxf.gov.cn/art/2026/1/5/art_21707_4411405.html",
+      "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047091.htm",
       "checked_on": "2026-11-10",
       "source_article_slug": "chinese-festivals-calendar"
     },
     {
       "id": 13,
       "topic": "holidays",
-      "claim": "For 2026, the Mid-Autumn Festival (中秋节) ran 25-27 September, 3 days.",
+      "claim": "For 2026, the Mid-Autumn Festival (中秋节) ran 25-27 September (Friday to Sunday), 3 days.",
       "figure": "3 days (25-27 Sep 2026)",
-      "source_url": "http://www.fzxf.gov.cn/art/2026/1/5/art_21707_4411405.html",
+      "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047091.htm",
       "checked_on": "2026-11-10",
       "source_article_slug": "chinese-festivals-calendar"
     },
     {
       "id": 14,
       "topic": "holidays",
-      "claim": "For 2026, the National Day holiday ran 1-7 October, 7 days, with 20 September and 10 October as make-up workdays.",
+      "claim": "For 2026, the National Day holiday ran 1-7 October (Thursday to Wednesday), 7 days, with 20 September (Sunday) and 10 October (Saturday) as make-up workdays.",
       "figure": "7 days (1-7 Oct 2026)",
-      "source_url": "http://www.fzxf.gov.cn/art/2026/1/5/art_21707_4411405.html",
+      "source_url": "https://www.gov.cn/zhengce/zhengceku/202511/content_7047091.htm",
       "checked_on": "2026-11-10",
       "source_article_slug": "chinese-festivals-calendar"
     },
     {
       "id": 15,
       "topic": "statutory_holidays",
-      "claim": "Since 1 January 2025, the statutory public holidays for all citizens total 13 days a year: 1 (New Year) + 4 (Spring Festival) + 1 (Qingming) + 2 (Labour Day) + 1 (Dragon Boat) + 1 (Mid-Autumn) + 3 (National Day).",
+      "claim": "Since 1 January 2025, all citizens get 13 days of statutory public holiday a year: 1 day for New Year's Day, 4 days for Spring Festival, 1 day for Qingming, 2 days for Labour Day, 1 day for the Dragon Boat Festival, 1 day for Mid-Autumn and 3 days for National Day.",
       "figure": "13 days/year",
-      "source_url": "https://www.foshan.gov.cn/zsk?kCode=CFS00000431",
+      "source_url": "https://www.gov.cn/zhengce/zhengceku/202411/content_6986381.htm",
       "checked_on": "2026-11-10",
       "source_article_slug": "chinese-new-year-explained"
     },
     {
       "id": 16,
       "topic": "statutory_holidays",
-      "claim": "Spring Festival is a statutory holiday of 4 days: Lunar New Year's Eve plus the first to the third day of the first lunar month.",
-      "figure": "4 days (除夕+初一至初三)",
-      "source_url": "https://www.foshan.gov.cn/zsk?kCode=CFS00000431",
+      "claim": "Spring Festival is a statutory holiday of 4 days — Lunar New Year's Eve plus the first to the third day of the first lunar month — set by the 2024 amendment to the national holiday measures, in force from 1 January 2025.",
+      "figure": "4 days (除夕 + 初一至初三)",
+      "source_url": "https://www.gov.cn/zhengce/zhengceku/202411/content_6986381.htm",
       "checked_on": "2026-11-10",
       "source_article_slug": "chinese-new-year-explained"
     },
     {
       "id": 17,
       "topic": "statutory_holidays",
-      "claim": "Labour Day is a statutory holiday of 2 days: 1 and 2 May.",
+      "claim": "Labour Day is a statutory holiday of 2 days — 1 and 2 May — set by the same 2024 amendment, in force from 1 January 2025.",
       "figure": "2 days (1-2 May)",
-      "source_url": "https://www.foshan.gov.cn/zsk?kCode=CFS00000431",
+      "source_url": "https://www.gov.cn/zhengce/zhengceku/202411/content_6986381.htm",
       "checked_on": "2026-11-10",
       "source_article_slug": "chinese-festivals-calendar"
     },
     {
       "id": 18,
       "topic": "statutory_holidays",
-      "claim": "National Day is a statutory holiday of 3 days: 1 to 3 October.",
+      "claim": "National Day is a statutory holiday of 3 days — 1 to 3 October — under the national holiday measures currently in force.",
       "figure": "3 days (1-3 Oct)",
-      "source_url": "https://www.foshan.gov.cn/zsk?kCode=CFS00000431",
+      "source_url": "https://www.gov.cn/zhengce/zhengceku/202411/content_6986381.htm",
       "checked_on": "2026-11-10",
       "source_article_slug": "chinese-festivals-calendar"
     },
     {
       "id": 19,
       "topic": "statutory_holidays",
-      "claim": "Except for special cases, the working stretch immediately before or after a statutory holiday is generally no more than 6 consecutive days.",
+      "claim": "Except in special cases, the working stretch immediately before or after a public holiday is generally no more than 6 consecutive days — a rule added by the 2024 amendment.",
       "figure": "max 6 consecutive workdays",
-      "source_url": "https://www.foshan.gov.cn/zsk?kCode=CFS00000431",
+      "source_url": "https://www.gov.cn/zhengce/zhengceku/202411/content_6986381.htm",
       "checked_on": "2026-11-10",
       "source_article_slug": "chinese-festivals-calendar"
     },
     {
       "id": 20,
-      "topic": "solar_terms",
-      "claim": "In 2026, Lichun (Start of Spring) begins on 4 February at 04:02 — the traditional start of spring.",
-      "figure": "4 Feb 2026, 04:02",
-      "source_url": "http://www.pmo.cas.cn/xwdt2019/kpdt2019/202203/P020251230620718707826.pdf",
+      "topic": "heritage",
+      "claim": "The State Council published the List of Commonly Used Standard Chinese Characters (《通用规范汉字表》) by Notice No. 23 of 2013, dated 5 June 2013 and released 19 August 2013.",
+      "figure": "国发〔2013〕23号",
+      "source_url": "https://www.gov.cn/zhengce/zhengceku/2013-08/19/content_1289.htm",
       "checked_on": "2026-11-10",
-      "source_article_slug": "chinese-festivals-calendar"
+      "source_article_slug": "how-chinese-got-simplified"
     },
     {
       "id": 21,
-      "topic": "solar_terms",
-      "claim": "In 2026, Chunfen (Spring Equinox) is on 20 March at 22:46.",
-      "figure": "20 Mar 2026, 22:46",
-      "source_url": "http://www.pmo.cas.cn/xwdt2019/kpdt2019/202203/P020251230620718707826.pdf",
+      "topic": "heritage",
+      "claim": "The 2013 table contains 8,105 characters in three tiers: 3,500 at the first tier (basic education), 3,000 at the second, and 1,605 at the third; the notice states that character use in general Chinese social life shall follow this table.",
+      "figure": "8,105 characters / 3 tiers",
+      "source_url": "https://www.gov.cn/zhengce/zhengceku/2013-08/19/content_1289.htm",
       "checked_on": "2026-11-10",
-      "source_article_slug": "chinese-festivals-calendar"
+      "source_article_slug": "how-chinese-got-simplified"
     },
     {
       "id": 22,
-      "topic": "solar_terms",
-      "claim": "In 2026, Qingming (Pure Brightness) is on 5 April at 02:40 — the only Chinese festival that is also a solar term.",
-      "figure": "5 Apr 2026, 02:40",
-      "source_url": "http://www.pmo.cas.cn/xwdt2019/kpdt2019/202203/P020251230620718707826.pdf",
-      "checked_on": "2026-11-10",
-      "source_article_slug": "chinese-festivals-calendar"
-    },
-    {
-      "id": 23,
-      "topic": "solar_terms",
-      "claim": "In 2026, Xiazhi (Summer Solstice) is on 21 June at 16:25.",
-      "figure": "21 Jun 2026, 16:25",
-      "source_url": "http://www.pmo.cas.cn/xwdt2019/kpdt2019/202203/P020251230620718707826.pdf",
-      "checked_on": "2026-11-10",
-      "source_article_slug": "chinese-festivals-calendar"
-    },
-    {
-      "id": 24,
-      "topic": "solar_terms",
-      "claim": "In 2026, Qiufen (Autumn Equinox) is on 23 September at 08:05.",
-      "figure": "23 Sep 2026, 08:05",
-      "source_url": "http://www.pmo.cas.cn/xwdt2019/kpdt2019/202203/P020251230620718707826.pdf",
-      "checked_on": "2026-11-10",
-      "source_article_slug": "chinese-festivals-calendar"
-    },
-    {
-      "id": 25,
-      "topic": "solar_terms",
-      "claim": "In 2026, Dongzhi (Winter Solstice) is on 22 December at 04:50 — the shortest day of the year.",
-      "figure": "22 Dec 2026, 04:50",
-      "source_url": "http://www.pmo.cas.cn/xwdt2019/kpdt2019/202203/P020251230620718707826.pdf",
-      "checked_on": "2026-11-10",
-      "source_article_slug": "chinese-festivals-calendar"
-    },
-    {
-      "id": 26,
-      "topic": "solar_terms",
-      "claim": "The traditional Chinese calendar divides the year into 24 solar terms (节气), each about 15 days apart, computed astronomically to the minute.",
-      "figure": "24 solar terms",
-      "source_url": "http://www.pmo.cas.cn/xwdt2019/kpdt2019/202203/P020251230620718707826.pdf",
-      "checked_on": "2026-11-10",
-      "source_article_slug": "chinese-festivals-calendar"
-    },
-    {
-      "id": 27,
-      "topic": "festivals",
-      "claim": "Spring Festival follows the lunisolar calendar, so the date moves by about eleven days each year; in 2026 it fell on 17 February, opening the Year of the Horse.",
-      "figure": "17 Feb 2026 (Year of the Horse)",
-      "source_url": "http://www.pmo.cas.cn/xwdt2019/kpdt2019/202203/P020251230620718707826.pdf",
-      "checked_on": "2026-11-10",
-      "source_article_slug": "chinese-new-year-explained"
-    },
-    {
-      "id": 28,
-      "topic": "festivals",
-      "claim": "The Lantern Festival (元宵) closes Spring Festival on the fifteenth day of the first lunar month — 3 March in 2026.",
-      "figure": "3 Mar 2026 (正月十五)",
-      "source_url": "http://www.pmo.cas.cn/xwdt2019/kpdt2019/202203/P020251230620718707826.pdf",
-      "checked_on": "2026-11-10",
-      "source_article_slug": "chinese-festivals-calendar"
-    },
-    {
-      "id": 29,
-      "topic": "festivals",
-      "claim": "The Mid-Autumn Festival is held on the 15th day of the 8th lunar month, usually September or October; in 2026 it fell on 25 September.",
-      "figure": "15th day of 8th lunar month",
-      "source_url": "http://www.fzxf.gov.cn/art/2026/1/5/art_21707_4411405.html",
-      "checked_on": "2026-11-10",
-      "source_article_slug": "chinese-festivals-calendar"
-    },
-    {
-      "id": 30,
-      "topic": "festivals",
-      "claim": "Qingming is a solar term, not a lunar date, and it landed on 5 April in 2026 with a three-day holiday.",
-      "figure": "5 Apr 2026",
-      "source_url": "http://www.fzxf.gov.cn/art/2026/1/5/art_21707_4411405.html",
-      "checked_on": "2026-11-10",
-      "source_article_slug": "chinese-festivals-calendar"
-    },
-    {
-      "id": 31,
-      "topic": "zodiac",
-      "claim": "The Chinese zodiac assigns one of 12 animals to each year in a repeating 12-year cycle: Rat, Ox, Tiger, Rabbit, Dragon, Snake, Horse, Goat, Monkey, Rooster, Dog, Pig.",
-      "figure": "12 animals",
-      "source_url": "http://www.pmo.cas.cn/xwdt2019/kpdt2019/202203/P020251230620718707826.pdf",
-      "checked_on": "2026-11-10",
-      "source_article_slug": "chinese-zodiac-explained"
-    },
-    {
-      "id": 32,
-      "topic": "zodiac",
-      "claim": "2026 is the Year of the Horse (丙午年); the zodiac year begins at Spring Festival, not on 1 January.",
-      "figure": "2026 = Year of the Horse",
-      "source_url": "http://www.pmo.cas.cn/xwdt2019/kpdt2019/202203/P020251230620718707826.pdf",
-      "checked_on": "2026-11-10",
-      "source_article_slug": "chinese-zodiac-explained"
-    },
-    {
-      "id": 33,
       "topic": "heritage",
-      "claim": "Chinese calligraphy was inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity in 2009.",
-      "figure": "UNESCO ICH 2009",
+      "claim": "Chinese calligraphy was inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity in 2009 (ref. RL 00216).",
+      "figure": "UNESCO ICH 2009 · RL 00216",
       "source_url": "https://ich.unesco.org/en/RL/00216",
       "checked_on": "2026-11-10",
       "source_article_slug": "chinese-calligraphy-intro"
     },
     {
-      "id": 34,
+      "id": 23,
       "topic": "heritage",
-      "claim": "Calligraphy sits in the national nine-year compulsory curriculum in China — the single most important reason the tradition survived.",
-      "figure": "national compulsory curriculum",
+      "claim": "China's official intangible-cultural-heritage documentation records calligraphy in the national nine-year compulsory curriculum, citing the Ministry of Education's Opinions on Calligraphy Education in Primary and Secondary Schools and the Guidelines for Calligraphy Education in Schools as the policy basis for survival.",
+      "figure": "national curriculum · MoE policy",
       "source_url": "https://www.ihchina.cn/hanzishufa.html",
       "checked_on": "2026-11-10",
       "source_article_slug": "chinese-calligraphy-intro"
     },
     {
-      "id": 35,
+      "id": 24,
       "topic": "heritage",
-      "claim": "Chinese tea types are defined by oxidation into 6 categories: green, yellow, white, oolong, black and dark (pu'er).",
-      "figure": "6 tea categories",
+      "claim": "China's traditional tea-processing techniques and associated social practices were inscribed on the UNESCO Representative List on 29 November 2022, at the 17th session of the Intergovernmental Committee held in Rabat, Morocco.",
+      "figure": "UNESCO ICH 2022-11-29",
       "source_url": "https://www.mct.gov.cn/whzx/whyw/202211/t20221129_937816.htm",
       "checked_on": "2026-11-10",
       "source_article_slug": "chinese-tea-culture-guide"
     },
     {
-      "id": 36,
+      "id": 25,
       "topic": "heritage",
-      "claim": "Traditional tea-processing techniques and associated social practices in China were inscribed on UNESCO's Representative List in 2022, covering over 2,000 products once reprocessed teas are counted.",
-      "figure": "UNESCO ICH 2022 · 2,000+ products",
+      "claim": "Chinese tea is divided into 6 categories - green, yellow, dark (hei), white, oolong and black (hong) - by processing and oxidation, with a further 2,000+ products once flower-scented and reprocessed teas are counted, the wording the Ministry of Culture and Tourism uses.",
+      "figure": "6 categories · 2,000+ products",
       "source_url": "https://www.mct.gov.cn/whzx/whyw/202211/t20221129_937816.htm",
       "checked_on": "2026-11-10",
       "source_article_slug": "chinese-tea-culture-guide"
+    },
+    {
+      "id": 26,
+      "topic": "heritage",
+      "claim": "The tea-processing listing is the 44th item, by 44 related national-level intangible-heritage projects, and China had 43 UNESCO intangible-heritage listings before it, ranking first in the world.",
+      "figure": "44 national projects · 43 prior listings",
+      "source_url": "https://www.mct.gov.cn/whzx/whyw/202211/t20221129_937816.htm",
+      "checked_on": "2026-11-10",
+      "source_article_slug": "chinese-tea-culture-guide"
+    },
+    {
+      "id": 27,
+      "topic": "heritage",
+      "claim": "The 24 solar terms (二十四节气) were inscribed on UNESCO's Representative List on 30 November 2016, at the 11th session in Addis Ababa; the element is framed as the time-knowledge system Chinese people built by observing the sun's annual motion.",
+      "figure": "UNESCO ICH 2016-11-30",
+      "source_url": "https://www.xinhuanet.com/politics/2016-11/30/c_129385180.htm",
+      "checked_on": "2026-11-10",
+      "source_article_slug": "chinese-festivals-calendar"
+    },
+    {
+      "id": 28,
+      "topic": "heritage",
+      "claim": "The 24 solar terms were first added to the national intangible-heritage list in 2006, with sub-elements added in 2011 (Jiuhua Lichun rites, Banchun quannong, Shiqian shuo chun) and in 2014 (Sanmen jidong, Zhuang Shuangxiang festival, Miao Ganqiu, Anren ganfenshe).",
+      "figure": "national list 2006 · 2011 · 2014",
+      "source_url": "https://www.xinhuanet.com/politics/2016-11/30/c_129385180.htm",
+      "checked_on": "2026-11-10",
+      "source_article_slug": "chinese-festivals-calendar"
+    },
+    {
+      "id": 29,
+      "topic": "heritage",
+      "claim": "Spring Festival - the social practices of the Chinese people in celebration of the traditional new year - was inscribed on UNESCO's Representative List on 4 December 2024, at the 19th session in Asuncion, Paraguay.",
+      "figure": "UNESCO ICH 2024-12-04",
+      "source_url": "https://www.gov.cn/yaowen/liebiao/202412/content_6991015.htm",
+      "checked_on": "2026-11-10",
+      "source_article_slug": "chinese-new-year-explained"
+    },
+    {
+      "id": 30,
+      "topic": "heritage",
+      "claim": "With the Spring Festival listing, China had 44 items on UNESCO's intangible-heritage lists and registers, and the count stayed the highest in the world, as stated in the inscription report.",
+      "figure": "44 items",
+      "source_url": "https://www.gov.cn/yaowen/liebiao/202412/content_6991015.htm",
+      "checked_on": "2026-11-10",
+      "source_article_slug": "chinese-new-year-explained"
+    },
+    {
+      "id": 31,
+      "topic": "heritage",
+      "claim": "China's Spring Festival inscription is the 44th item on UNESCO's intangible-heritage lists - the Dragon Boat Festival (2009) and the 24 solar terms (2016) came before it, as the national intangible-heritage inventory records.",
+      "figure": "2009 · 2016",
+      "source_url": "https://www.gov.cn/yaowen/liebiao/202412/content_6991015.htm",
+      "checked_on": "2026-11-10",
+      "source_article_slug": "chinese-festivals-calendar"
     }
   ]
 }
