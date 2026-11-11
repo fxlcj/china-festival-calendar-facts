@@ -86,6 +86,18 @@ Two requests, both about accuracy rather than credit:
 
 2. **For anything time-sensitive, link the official source we list, not this file.** Our row is a pointer; the official notice is the authority.
 
+## Machine-readable mirror & schema
+
+`facts.json` is also served through a CDN, which helps when raw.githubusercontent.com is slow or blocked:
+
+- <https://cdn.jsdelivr.net/gh/fxlcj/china-festival-calendar-facts@main/facts.json>
+
+Field names differ between our repositories. This repo uses a flat `claim` / `source_url` pair; `china-rail-facts` and `china-payment-logistics-facts` use `claim_en` and a `source` object with `name` and `url`. Every entry in every repo carries the same three essentials: the claim, the official source URL, and the check date. See `gaps.md` for what we could not verify and what we deliberately left out.
+
+Dates in this repo are also cross-checked against the independently maintained `NateScarlet/holiday-cn` dataset. That dataset is a check, never a source: every entry here still cites the State Council notice on gov.cn.
+
+The official source URL in each row remains the authority. The CDN is only a copy of `facts.json`.
+
 ## License
 
 Data and text: **CC BY 4.0** — use it commercially, remix it, mirror it, fold it into a dataset; attribution as above is the only condition. See [LICENSE](LICENSE).
