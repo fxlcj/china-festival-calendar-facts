@@ -2,8 +2,8 @@
   "dataset": "china-festival-calendar-facts",
   "homepage": "https://jiunotes.top/en/culture/",
   "license": "CC BY 4.0",
-  "checked_on": "2026-11-10",
-  "count": 31,
+  "checked_on": "2026-11-11",
+  "count": 34,
   "facts": [
     {
       "id": 1,
@@ -282,6 +282,33 @@
       "figure": "2009 · 2016",
       "source_url": "https://www.gov.cn/yaowen/liebiao/202412/content_6991015.htm",
       "checked_on": "2026-11-10",
+      "source_article_slug": "chinese-festivals-calendar"
+    },
+    {
+      "id": 32,
+      "topic": "holidays",
+      "claim": "Partial public holidays: Women's Day (8 March) gives women half a day off; Youth Day (4 May) gives youth aged 14 and over half a day; Children's Day (1 June) gives children under 14 one day; Army Day (1 August) gives active service personnel half a day.",
+      "figure": "Mar 8 · May 4 · Jun 1 · Aug 1",
+      "source_url": "https://www.gov.cn/zhengce/zhengceku/202411/content_6986381.htm",
+      "checked_on": "2026-11-11",
+      "source_article_slug": "chinese-festivals-calendar"
+    },
+    {
+      "id": 33,
+      "topic": "holidays",
+      "claim": "Holidays for ethnic-minority customary festivals are set by the local people's government of the relevant minority-inhabited area according to each group's customs.",
+      "figure": "set by local government",
+      "source_url": "https://www.gov.cn/zhengce/zhengceku/202411/content_6986381.htm",
+      "checked_on": "2026-11-11",
+      "source_article_slug": "chinese-festivals-calendar"
+    },
+    {
+      "id": 34,
+      "topic": "holidays",
+      "claim": "Other commemorative and observance days - the February 7 Commemoration, the May 30 Movement, July 7 (the War of Resistance against Japan), September 3 (victory in the War of Resistance), September 18 (Mukden Incident), Teachers' Day, Nurses' Day, Journalists' Day and Arbor Day - are not public holidays.",
+      "figure": "not public holidays",
+      "source_url": "https://www.gov.cn/zhengce/zhengceku/202411/content_6986381.htm",
+      "checked_on": "2026-11-11",
       "source_article_slug": "chinese-festivals-calendar"
     }
   ]
