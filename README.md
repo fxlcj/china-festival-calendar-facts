@@ -4,7 +4,7 @@ A reference for the Chinese festival and calendar facts that guides most often g
 
 Every row carries **the official Chinese (or UNESCO) source that states it** and **the date it was last checked**. If you copy a date anywhere, copy the check date with it — that is what makes it verifiable at all.
 
-- `facts.json` — the same 31 entries, machine-readable
+- `facts.json` — the same 35 entries, machine-readable
 
 - The human-readable hub: <https://jiunotes.top/en/culture/>
 
@@ -58,7 +58,7 @@ The dates themselves are not secret — China's State Council publishes the holi
 | 32 | `holidays` | Partial public holidays: Women's Day (8 March) gives women half a day off; Youth Day (4 May) gives youth aged 14 and over half a day; Children's Day (1 June) gives children under 14 one day; Army Day (1 August) gives active service personnel half a day. | Mar 8 · May 4 · Jun 1 · Aug 1 | [www.gov.cn](https://www.gov.cn/zhengce/zhengceku/202411/content_6986381.htm) | 2026-11-11 |
 | 33 | `holidays` | Holidays for ethnic-minority customary festivals are set by the local people's government of the relevant minority-inhabited area according to each group's customs. | set by local government | [www.gov.cn](https://www.gov.cn/zhengce/zhengceku/202411/content_6986381.htm) | 2026-11-11 |
 | 34 | `holidays` | Other commemorative and observance days - the February 7 Commemoration, the May 30 Movement, July 7 (the War of Resistance against Japan), September 3 (victory in the War of Resistance), September 18 (Mukden Incident), Teachers' Day, Nurses' Day, Journalists' Day and Arbor Day - are not public holidays. | not public holidays | [www.gov.cn](https://www.gov.cn/zhengce/zhengceku/202411/content_6986381.htm) | 2026-11-11 |
-
+| 35 | `holidays` | That instrument was revised in November 2024, and the notice published for 2025 on 12 November 2024 records the effect: from 1 January 2025 the statutory holidays for all citizens increased by two days, one added to Spring Festival and one to Labour Day. | 2024, | [www.gov.cn](https://www.gov.cn/zhengce/content/202411/content_6986382.htm) | 2026-11-13 |
 ## What is *not* in this file
 
 - **This year's exact festival dates beyond 2026/2027.** The next arrangement is only authoritative once the State Council publishes it (usually each November).

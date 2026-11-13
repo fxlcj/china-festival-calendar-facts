@@ -2,8 +2,8 @@
   "dataset": "china-festival-calendar-facts",
   "homepage": "https://jiunotes.top/en/culture/",
   "license": "CC BY 4.0",
-  "checked_on": "2026-11-11",
-  "count": 34,
+  "checked_on": "2026-11-13",
+  "count": 35,
   "facts": [
     {
       "id": 1,
@@ -310,6 +310,16 @@
       "source_url": "https://www.gov.cn/zhengce/zhengceku/202411/content_6986381.htm",
       "checked_on": "2026-11-11",
       "source_article_slug": "chinese-festivals-calendar"
+    },
+    {
+      "id": 35,
+      "topic": "holidays",
+      "claim": "That instrument was revised in November 2024, and the notice published for 2025 on 12 November 2024 records the effect: from 1 January 2025 the statutory holidays for all citizens increased by two days, one added to Spring Festival and one to Labour Day.",
+      "figure": "2024,",
+      "source_url": "https://www.gov.cn/zhengce/content/202411/content_6986382.htm",
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-11",
+      "added_from": "article-sync"
     }
   ]
 }
