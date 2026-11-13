@@ -108,3 +108,5 @@ Data and text: **CC BY 4.0** — use it commercially, remix it, mirror it, fold 
 ## Contributing
 
 If a date here is wrong or out of date, open an issue and include **the official page that says otherwise**. A correction with a source gets merged quickly; a correction without one cannot be verified, and we will ask for one.
+
+**How to reach us.** Open a GitHub issue in this repo — it is the fastest route and leaves a public record. Or email **you@jiunotes.top**, the same inbox as the site's [contact page](https://jiunotes.top/contact). Every sourced correction is re-checked against the official page and answered within two working days.
