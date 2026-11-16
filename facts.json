@@ -2,8 +2,8 @@
   "dataset": "china-festival-calendar-facts",
   "homepage": "https://jiunotes.top/en/culture/",
   "license": "CC BY 4.0",
-  "checked_on": "2026-11-13",
-  "count": 57,
+  "checked_on": "2026-11-16",
+  "count": 60,
   "facts": [
     {
       "id": 1,
@@ -540,6 +540,36 @@
       "source_name": "National Cultural Heritage Administration (国家文物局) — report on the Xixia inscription",
       "checked_on": "2026-11-13",
       "added_from": "db-backfill"
+    },
+    {
+      "id": 58,
+      "topic": "holidays",
+      "claim": "455 — the full text governing the sale, transport and setting off of fireworks; gov.cn — 2027 public holiday notice — the official Spring Festival dates for 2027.",
+      "figure": "455",
+      "source_url": "https://www.gov.cn/zhengce/zhengceku/2008-03/28/content_6306.htm",
+      "checked_on": "2026-11-16",
+      "recheck_by": "2027-02-14",
+      "added_from": "article-sync"
+    },
+    {
+      "id": 59,
+      "topic": "culture_rules",
+      "claim": "Article 41 attaches the consequence: the public security authority confiscates what it finds and may add a fine of 200 to 1,000 yuan.",
+      "figure": "41",
+      "source_url": "https://www.gov.cn/zhengce/zhengceku/2008-03/28/content_6306.htm",
+      "checked_on": "2026-11-16",
+      "recheck_by": "2027-02-14",
+      "added_from": "article-sync"
+    },
+    {
+      "id": 60,
+      "topic": "culture_rules",
+      "claim": "What it costs to set one off where it is banned Article 42 sets out two consequences, and they differ by an order of magnitude.",
+      "figure": "42",
+      "source_url": "https://www.gov.cn/zhengce/zhengceku/2008-03/28/content_6306.htm",
+      "checked_on": "2026-11-16",
+      "recheck_by": "2027-02-14",
+      "added_from": "article-sync"
     }
   ]
 }
