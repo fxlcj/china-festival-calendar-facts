@@ -4,7 +4,7 @@ A reference for the Chinese festival and calendar facts that guides most often g
 
 Every row carries **the official Chinese (or UNESCO) source that states it** and **the date it was last checked**. If you copy a date anywhere, copy the check date with it — that is what makes it verifiable at all.
 
-- `facts.json` — the same 60 entries, machine-readable
+- `facts.json` — the same 61 entries, machine-readable
 
 - The human-readable hub: <https://jiunotes.top/en/culture/>
 
@@ -84,6 +84,7 @@ The dates themselves are not secret — China's State Council publishes the holi
 | 58 | `holidays` | 455 — the full text governing the sale, transport and setting off of fireworks; gov.cn — 2027 public holiday notice — the official Spring Festival dates for 2027. | 455 | [www.gov.cn](https://www.gov.cn/zhengce/zhengceku/2008-03/28/content_6306.htm) | 2026-11-16 |
 | 59 | `culture_rules` | Article 41 attaches the consequence: the public security authority confiscates what it finds and may add a fine of 200 to 1,000 yuan. | 41 | [www.gov.cn](https://www.gov.cn/zhengce/zhengceku/2008-03/28/content_6306.htm) | 2026-11-16 |
 | 60 | `culture_rules` | What it costs to set one off where it is banned Article 42 sets out two consequences, and they differ by an order of magnitude. | 42 | [www.gov.cn](https://www.gov.cn/zhengce/zhengceku/2008-03/28/content_6306.htm) | 2026-11-16 |
+| 61 | `solar_terms` | UNESCO intangible-heritage listing — the 2016 inscription of the 24 solar terms; official solar-term date table — the exact dates and times in a given year; Ministry of Culture and Tourism — the national intangible-heritage register. | 2016 | [www.mct.gov.cn](https://www.mct.gov.cn/whzx/whyw/202209/t20220907_935835.htm) | 2026-11-17 |
 ## What is *not* in this file
 
 - **This year's exact festival dates beyond 2026/2027.** The next arrangement is only authoritative once the State Council publishes it (usually each November).

@@ -2,8 +2,8 @@
   "dataset": "china-festival-calendar-facts",
   "homepage": "https://jiunotes.top/en/culture/",
   "license": "CC BY 4.0",
-  "checked_on": "2026-11-16",
-  "count": 60,
+  "checked_on": "2026-11-17",
+  "count": 61,
   "facts": [
     {
       "id": 1,
@@ -569,6 +569,16 @@
       "source_url": "https://www.gov.cn/zhengce/zhengceku/2008-03/28/content_6306.htm",
       "checked_on": "2026-11-16",
       "recheck_by": "2027-02-14",
+      "added_from": "article-sync"
+    },
+    {
+      "id": 61,
+      "topic": "solar_terms",
+      "claim": "UNESCO intangible-heritage listing — the 2016 inscription of the 24 solar terms; official solar-term date table — the exact dates and times in a given year; Ministry of Culture and Tourism — the national intangible-heritage register.",
+      "figure": "2016",
+      "source_url": "https://www.mct.gov.cn/whzx/whyw/202209/t20220907_935835.htm",
+      "checked_on": "2026-11-17",
+      "recheck_by": "2027-02-15",
       "added_from": "article-sync"
     }
   ]
