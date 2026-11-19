@@ -2,8 +2,8 @@
   "dataset": "china-festival-calendar-facts",
   "homepage": "https://jiunotes.top/en/culture/",
   "license": "CC BY 4.0",
-  "checked_on": "2026-11-17",
-  "count": 61,
+  "checked_on": "2026-11-19",
+  "count": 62,
   "facts": [
     {
       "id": 1,
@@ -579,6 +579,16 @@
       "source_url": "https://www.mct.gov.cn/whzx/whyw/202209/t20220907_935835.htm",
       "checked_on": "2026-11-17",
       "recheck_by": "2027-02-15",
+      "added_from": "article-sync"
+    },
+    {
+      "id": 62,
+      "topic": "opening_hours",
+      "claim": "Current archaeology and reporting: China Daily on the Cao Cao Mausoleum Museum (2025-03-07).",
+      "figure": "2025-03",
+      "source_url": "https://www.chinadaily.com.cn/a/202503/07/WS67ca3771a310c240449d9300_1.html",
+      "checked_on": "2026-11-19",
+      "recheck_by": "2027-02-17",
       "added_from": "article-sync"
     }
   ]
