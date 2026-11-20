@@ -2,8 +2,8 @@
   "dataset": "china-festival-calendar-facts",
   "homepage": "https://jiunotes.top/en/culture/",
   "license": "CC BY 4.0",
-  "checked_on": "2026-11-19",
-  "count": 62,
+  "checked_on": "2026-11-20",
+  "count": 82,
   "facts": [
     {
       "id": 1,
@@ -590,6 +590,226 @@
       "checked_on": "2026-11-19",
       "recheck_by": "2027-02-17",
       "added_from": "article-sync"
+    },
+    {
+      "id": 63,
+      "topic": "holiday",
+      "claim": "The 2027 holiday arrangement (Guoban Fa Mingdian [2026] No.10, issued 5 Nov 2026) sets seven holiday blocks totalling 29 days off and five make-up workdays.",
+      "figure": "7 blocks / 29 days / 5 make-up workdays 2027 schedule",
+      "source_url": "https://www.gov.cn/zhengce/content/202611/content_7085101.htm",
+      "source_name": "State Council General Office — Notice on the 2027 Partial Holiday Arrangement (国办发明电〔2026〕10号, gov.cn)",
+      "checked_on": "2026-11-19",
+      "added_from": "db-backfill",
+      "db_fact_id": 218
+    },
+    {
+      "id": 64,
+      "topic": "holiday",
+      "claim": "2027 New Year (元旦): Fri 1 Jan to Sun 3 Jan, 3 days off, no make-up workday.",
+      "figure": "1 Jan - 3 Jan (3 days) no make-up workday",
+      "source_url": "https://www.gov.cn/zhengce/content/202611/content_7085101.htm",
+      "source_name": "State Council General Office — Notice on the 2027 Partial Holiday Arrangement (国办发明电〔2026〕10号, gov.cn)",
+      "checked_on": "2026-11-19",
+      "added_from": "db-backfill",
+      "db_fact_id": 219
+    },
+    {
+      "id": 65,
+      "topic": "holiday",
+      "claim": "2027 Spring Festival (春节): Fri 5 Feb to Sat 13 Feb (from New Year's Eve), 9 days off with make-up workdays on Sun 31 Jan and Sun 14 Feb.",
+      "figure": "5 Feb - 13 Feb (9 days) make-up 31 Jan, 14 Feb",
+      "source_url": "https://www.gov.cn/zhengce/content/202611/content_7085101.htm",
+      "source_name": "State Council General Office — Notice on the 2027 Partial Holiday Arrangement (国办发明电〔2026〕10号, gov.cn)",
+      "checked_on": "2026-11-19",
+      "added_from": "db-backfill",
+      "db_fact_id": 220
+    },
+    {
+      "id": 66,
+      "topic": "holiday",
+      "claim": "2027 Qingming (清明节): Sat 3 Apr to Mon 5 Apr, 3 days off, no make-up workday.",
+      "figure": "3 Apr - 5 Apr (3 days) no make-up workday",
+      "source_url": "https://www.gov.cn/zhengce/content/202611/content_7085101.htm",
+      "source_name": "State Council General Office — Notice on the 2027 Partial Holiday Arrangement (国办发明电〔2026〕10号, gov.cn)",
+      "checked_on": "2026-11-19",
+      "added_from": "db-backfill",
+      "db_fact_id": 221
+    },
+    {
+      "id": 67,
+      "topic": "holiday",
+      "claim": "2027 Labour Day (劳动节): Sat 1 May to Wed 5 May, 5 days off with a make-up workday on Sat 8 May.",
+      "figure": "1 May - 5 May (5 days) make-up 8 May",
+      "source_url": "https://www.gov.cn/zhengce/content/202611/content_7085101.htm",
+      "source_name": "State Council General Office — Notice on the 2027 Partial Holiday Arrangement (国办发明电〔2026〕10号, gov.cn)",
+      "checked_on": "2026-11-19",
+      "added_from": "db-backfill",
+      "db_fact_id": 222
+    },
+    {
+      "id": 68,
+      "topic": "holiday",
+      "claim": "2027 Dragon Boat (端午节): Wed 9 Jun, 1 day off.",
+      "figure": "9 Jun (1 day) no make-up workday",
+      "source_url": "https://www.gov.cn/zhengce/content/202611/content_7085101.htm",
+      "source_name": "State Council General Office — Notice on the 2027 Partial Holiday Arrangement (国办发明电〔2026〕10号, gov.cn)",
+      "checked_on": "2026-11-19",
+      "added_from": "db-backfill",
+      "db_fact_id": 223
+    },
+    {
+      "id": 69,
+      "topic": "holiday",
+      "claim": "2027 Mid-Autumn (中秋节): Wed 15 Sep, 1 day off.",
+      "figure": "15 Sep (1 day) no make-up workday",
+      "source_url": "https://www.gov.cn/zhengce/content/202611/content_7085101.htm",
+      "source_name": "State Council General Office — Notice on the 2027 Partial Holiday Arrangement (国办发明电〔2026〕10号, gov.cn)",
+      "checked_on": "2026-11-19",
+      "added_from": "db-backfill",
+      "db_fact_id": 224
+    },
+    {
+      "id": 70,
+      "topic": "holiday",
+      "claim": "2027 National Day (国庆节): Fri 1 Oct to Thu 7 Oct, 7 days off with make-up workdays on Sun 26 Sep and Sat 9 Oct.",
+      "figure": "1 Oct - 7 Oct (7 days) make-up 26 Sep, 9 Oct",
+      "source_url": "https://www.gov.cn/zhengce/content/202611/content_7085101.htm",
+      "source_name": "State Council General Office — Notice on the 2027 Partial Holiday Arrangement (国办发明电〔2026〕10号, gov.cn)",
+      "checked_on": "2026-11-19",
+      "added_from": "db-backfill",
+      "db_fact_id": 225
+    },
+    {
+      "id": 71,
+      "topic": "culture",
+      "claim": "Peking Opera (京剧) was inscribed on the UNESCO Representative List of the Intangible Cultural Heritage of Humanity on 16 Nov 2010, at the 5th Intergovernmental Committee session in Nairobi.",
+      "figure": "16 Nov 2010 inscribed on UNESCO Representative List",
+      "source_url": "https://www.ihchina.cn/rej_news_detail/16727.html",
+      "source_name": "China Intangible Cultural Heritage Network (中国非物质文化遗产网 ihchina.cn)",
+      "checked_on": "2026-11-19",
+      "added_from": "db-backfill",
+      "db_fact_id": 226
+    },
+    {
+      "id": 72,
+      "topic": "culture",
+      "claim": "Kunqu opera (昆曲) was proclaimed a Masterpiece of the Oral and Intangible Heritage of Humanity in 2001, in the first batch; it was later folded into the unified Representative List.",
+      "figure": "2001 (first batch) UNESCO Masterpieces / Representative List",
+      "source_url": "https://www.ihchina.cn/luntan/p/17.html",
+      "source_name": "China Intangible Cultural Heritage Network (中国非物质文化遗产网 ihchina.cn) — UNESCO 10th anniversary summary",
+      "checked_on": "2026-11-19",
+      "added_from": "db-backfill",
+      "db_fact_id": 227
+    },
+    {
+      "id": 73,
+      "topic": "culture",
+      "claim": "The \"General Standard Chinese Character Table\" (《通用规范汉字表》) collects 8,105 standard characters and was published by the State Council on 5 June 2013 (Guofa [2013] No.23).",
+      "figure": "8,105 standard characters",
+      "source_url": "https://www.gov.cn/zwgk/2013-08/19/content_2469793.htm",
+      "source_name": "State Council — Notice on the Publication of the \"General Standard Chinese Character Table\" (国发〔2013〕23号, gov.cn)",
+      "checked_on": "2026-11-19",
+      "added_from": "db-backfill",
+      "db_fact_id": 228
+    },
+    {
+      "id": 74,
+      "topic": "culture",
+      "claim": "The \"General Standard Chinese Character Table\" divides its 8,105 characters into three tiers: a tier-1 common set of 3,500, a tier-2 of 3,000, and a tier-3 of 1,605 characters.",
+      "figure": "3,500 / 3,000 / 1,605 tier-1 / tier-2 / tier-3 characters",
+      "source_url": "https://www.gov.cn/gzdt/att/att/site1/20130819/tygfhzb.pdf",
+      "source_name": "State Council — Notice on the Publication of the \"General Standard Chinese Character Table\" (国发〔2013〕23号, gov.cn)",
+      "checked_on": "2026-11-19",
+      "added_from": "db-backfill",
+      "db_fact_id": 229
+    },
+    {
+      "id": 75,
+      "topic": "culture",
+      "claim": "The \"General Standard Chinese Character Table\" was compiled by integrating the 1955 Variant-Character Table, the 1986 Simplified-Character General Table, the 1988 Modern-Chinese Common-Character Table and the 1988 Modern-Chinese General-Character Table; it newly admits 226 derived simplified characters (e.g. 闫).",
+      "figure": "4 prior tables merged; 226 tables integrated / newly admitted derived simplified characters",
+      "source_url": "https://www.gov.cn/gzdt/att/att/site1/20130819/tygfhzb.pdf",
+      "source_name": "State Council — Notice on the Publication of the \"General Standard Chinese Character Table\" (国发〔2013〕23号, gov.cn)",
+      "checked_on": "2026-11-19",
+      "added_from": "db-backfill",
+      "db_fact_id": 230
+    },
+    {
+      "id": 76,
+      "topic": "heritage",
+      "claim": "The Mogao Caves at Dunhuang preserve 735 caves, more than 45,000 square metres of murals and over 2,400 polychrome clay sculptures, carved continuously from the 4th to the 14th century.",
+      "figure": "735 / 45,000+ m² / 2,400+ caves / mural area / polychrome sculptures",
+      "source_url": "https://www.dha.ac.cn/info/1021/7174.htm",
+      "source_name": "Dunhuang Research Academy (敦煌研究院)",
+      "checked_on": "2026-11-19",
+      "added_from": "db-backfill",
+      "db_fact_id": 255
+    },
+    {
+      "id": 77,
+      "topic": "heritage",
+      "claim": "The Mogao Caves were inscribed on the UNESCO World Heritage List in 1987, meeting all six criteria for World Cultural Heritage; they had already been designated a first-batch national key cultural relic protection unit in 1961.",
+      "figure": "1987 / 1961 UNESCO inscription / first-batch national heritage",
+      "source_url": "https://www.dha.ac.cn/info/1018/7639.htm",
+      "source_name": "Dunhuang Research Academy (敦煌研究院)",
+      "checked_on": "2026-11-19",
+      "added_from": "db-backfill",
+      "db_fact_id": 256
+    },
+    {
+      "id": 78,
+      "topic": "heritage",
+      "claim": "The Qin terracotta pits were discovered in 1974; the three pits, arranged in a \"pi\" shape, hold more than 7,000 life-sized terracotta warriors and horses and have yielded over 40,000 bronze weapons.",
+      "figure": "1974 / 7,000+ / 40,000+ discovery year / terracotta warriors & horses / bronze weapons",
+      "source_url": "https://www.bmy.com.cn/news/news/2164.html",
+      "source_name": "Mausoleum of the First Qin Emperor Museum (秦始皇帝陵博物院)",
+      "checked_on": "2026-11-19",
+      "added_from": "db-backfill",
+      "db_fact_id": 257
+    },
+    {
+      "id": 79,
+      "topic": "heritage",
+      "claim": "The Mausoleum of the First Qin Emperor and its terracotta pits (秦始皇陵及兵马俑坑) were inscribed on the UNESCO World Heritage List as a cultural site in December 1987; the terracotta army is often called \"the eighth wonder of the world\".",
+      "figure": "Dec 1987 UNESCO World Heritage inscription",
+      "source_url": "https://travel.cctv.com/2017/07/20/ARTIOZiNG0QlsDgXeFeK5z2P170720.shtml",
+      "source_name": "CCTV Travel (央视网·世遗旅游)",
+      "checked_on": "2026-11-19",
+      "added_from": "db-backfill",
+      "db_fact_id": 258
+    },
+    {
+      "id": 80,
+      "topic": "heritage",
+      "claim": "The Jingmai Mountain Ancient Tea Forest Culture Landscape (普洱景迈山古茶林文化景观) in Lancang County, Yunnan, was inscribed on the UNESCO World Heritage List on 17 September 2023 at the 45th session in Riyadh, becoming the world's first tea-themed cultural heritage site and China's 57th world heritage property.",
+      "figure": "17 Sep 2023 / 57th site Jingmai Mountain UNESCO inscription",
+      "source_url": "https://www.mct.gov.cn/whzx/whyw/202309/t20230918_947312.htm",
+      "source_name": "Ministry of Culture and Tourism (中华人民共和国文化和旅游部)",
+      "checked_on": "2026-11-20",
+      "added_from": "db-backfill",
+      "db_fact_id": 268
+    },
+    {
+      "id": 81,
+      "topic": "heritage",
+      "claim": "The Jingmai Mountain World Heritage property covers 19,095.74 hectares (a 7,167.89 ha core zone plus an 11,927.85 ha buffer zone) and comprises five ancient tea forests, nine ethnic-minority villages and three protective forest belts — the best-preserved living example of traditional under-forest tea cultivation on earth.",
+      "figure": "19,095.74 ha / 5 ancient tea forests / 9 villages Jingmai Mountain property scope",
+      "source_url": "http://www.ncha.gov.cn/art/2023/9/17/art_722_184083.html",
+      "source_name": "State Administration of Cultural Heritage (国家文物局)",
+      "checked_on": "2026-11-20",
+      "added_from": "db-backfill",
+      "db_fact_id": 269
+    },
+    {
+      "id": 82,
+      "topic": "heritage",
+      "claim": "\"The Central Axis of Beijing — An Ideal Model for the Chinese Capital\" was inscribed on the UNESCO World Heritage List on 27 July 2024 at the 46th session in New Delhi; the 7.8 km axis, founded in the 13th century, is the world's longest urban axis and comprises 15 heritage elements — from the Drum and Bell Tower to the Forbidden City, Temple of Heaven and Yongding Gate — bringing China's world heritage total to 59.",
+      "figure": "27 Jul 2024 / 7.8 km / 15 elements / 59th site Beijing Central Axis UNESCO inscription",
+      "source_url": "https://www.gov.cn/yaowen/liebiao/202407/content_6964753.htm",
+      "source_name": "Chinese government portal (中国政府网·新华社)",
+      "checked_on": "2026-11-20",
+      "added_from": "db-backfill",
+      "db_fact_id": 270
     }
   ]
 }
