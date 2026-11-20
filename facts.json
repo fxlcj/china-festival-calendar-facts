@@ -3,7 +3,7 @@
   "homepage": "https://jiunotes.top/en/culture/",
   "license": "CC BY 4.0",
   "checked_on": "2026-11-20",
-  "count": 82,
+  "count": 84,
   "facts": [
     {
       "id": 1,
@@ -810,6 +810,26 @@
       "checked_on": "2026-11-20",
       "added_from": "db-backfill",
       "db_fact_id": 270
+    },
+    {
+      "id": 83,
+      "topic": "culture_rules",
+      "claim": "Current reporting and culture: China Daily on the Mulan story in a new picture book (2020-09-01) and China Daily Culturepedia.",
+      "figure": "2020-09",
+      "source_url": "https://www.chinadaily.com.cn/a/202009/01/WS5f4d956aa310675eafc56a22_1.html",
+      "checked_on": "2026-11-20",
+      "recheck_by": "2027-02-18",
+      "added_from": "article-sync"
+    },
+    {
+      "id": 84,
+      "topic": "opening_hours",
+      "claim": "Current archaeology and reporting: China Daily on the Tang grottoes at Longmen (2025-05-19) and Qianling Museum (2025-02-13).",
+      "figure": "2025-05",
+      "source_url": "https://www.chinadaily.com.cn/a/202505/19/WS682a9583a310a04af22c02bf.html",
+      "checked_on": "2026-11-20",
+      "recheck_by": "2027-02-18",
+      "added_from": "article-sync"
     }
   ]
 }
