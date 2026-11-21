@@ -4,7 +4,7 @@ A reference for the Chinese festival and calendar facts that guides most often g
 
 Every row carries **the official Chinese (or UNESCO) source that states it** and **the date it was last checked**. If you copy a date anywhere, copy the check date with it — that is what makes it verifiable at all.
 
-- `facts.json` — the same 84 entries, machine-readable
+- `facts.json` — the same 85 entries, machine-readable
 
 - The human-readable hub: <https://jiunotes.top/en/culture/>
 
@@ -108,6 +108,7 @@ The dates themselves are not secret — China's State Council publishes the holi
 | 82 | `heritage` | "The Central Axis of Beijing — An Ideal Model for the Chinese Capital" was inscribed on the UNESCO World Heritage List on 27 July 2024 at the 46th session in New Delhi; the 7.8 km axis, founded in the 13th century, is the world's longest urban axis and comprises 15 heritage elements — from the Drum and Bell Tower to the Forbidden City, Temple of Heaven and Yongding Gate — bringing China's world heritage total to 59. | 27 Jul 2024 / 7.8 km / 15 elements / 59th site Beijing Central Axis UNESCO inscription | [www.gov.cn](https://www.gov.cn/yaowen/liebiao/202407/content_6964753.htm) | 2026-11-20 |
 | 83 | `culture_rules` | Current reporting and culture: China Daily on the Mulan story in a new picture book (2020-09-01) and China Daily Culturepedia. | 2020-09 | [www.chinadaily.com.cn](https://www.chinadaily.com.cn/a/202009/01/WS5f4d956aa310675eafc56a22_1.html) | 2026-11-20 |
 | 84 | `opening_hours` | Current archaeology and reporting: China Daily on the Tang grottoes at Longmen (2025-05-19) and Qianling Museum (2025-02-13). | 2025-05 | [www.chinadaily.com.cn](https://www.chinadaily.com.cn/a/202505/19/WS682a9583a310a04af22c02bf.html) | 2026-11-20 |
+| 85 | `culture_rules` | Current reporting: China Daily (Zhejiang) on Su Dongpo's inspection tours in Hangzhou (2022-12-26) and China Daily (Zhejiang) on Hangzhou in the eyes of foreigners (2016-09-05). | 2022-12 | [subsites.chinadaily.com.cn](https://subsites.chinadaily.com.cn/ezhejiang/2022-12/26/c_842646.htm) | 2026-11-21 |
 ## What is *not* in this file
 
 - **This year's exact festival dates beyond 2026/2027.** The next arrangement is only authoritative once the State Council publishes it (usually each November).

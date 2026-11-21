@@ -2,8 +2,8 @@
   "dataset": "china-festival-calendar-facts",
   "homepage": "https://jiunotes.top/en/culture/",
   "license": "CC BY 4.0",
-  "checked_on": "2026-11-20",
-  "count": 84,
+  "checked_on": "2026-11-21",
+  "count": 85,
   "facts": [
     {
       "id": 1,
@@ -829,6 +829,16 @@
       "source_url": "https://www.chinadaily.com.cn/a/202505/19/WS682a9583a310a04af22c02bf.html",
       "checked_on": "2026-11-20",
       "recheck_by": "2027-02-18",
+      "added_from": "article-sync"
+    },
+    {
+      "id": 85,
+      "topic": "culture_rules",
+      "claim": "Current reporting: China Daily (Zhejiang) on Su Dongpo's inspection tours in Hangzhou (2022-12-26) and China Daily (Zhejiang) on Hangzhou in the eyes of foreigners (2016-09-05).",
+      "figure": "2022-12",
+      "source_url": "https://subsites.chinadaily.com.cn/ezhejiang/2022-12/26/c_842646.htm",
+      "checked_on": "2026-11-21",
+      "recheck_by": "2027-02-19",
       "added_from": "article-sync"
     }
   ]
