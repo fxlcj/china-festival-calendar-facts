@@ -2,8 +2,8 @@
   "dataset": "china-festival-calendar-facts",
   "homepage": "https://jiunotes.top/en/culture/",
   "license": "CC BY 4.0",
-  "checked_on": "2026-11-21",
-  "count": 85,
+  "checked_on": "2026-11-23",
+  "count": 90,
   "facts": [
     {
       "id": 1,
@@ -840,6 +840,61 @@
       "checked_on": "2026-11-21",
       "recheck_by": "2027-02-19",
       "added_from": "article-sync"
+    },
+    {
+      "id": 86,
+      "topic": "attraction",
+      "claim": "China's A-level tourist attractions received 6.76 billion visits in 2024 and generated CNY 481.42 billion in total revenue.",
+      "figure": "CNY 481.42 bn 2024 A-level scenic area revenue",
+      "source_url": "https://zwgk.mct.gov.cn/zfxxgkml/tjxx/202505/t20250530_960335.html",
+      "source_name": "Ministry of Culture and Tourism — 2024 Culture and Tourism Development Statistical Bulletin (文化和旅游部《2024年文化和旅游发展统计公报》)",
+      "checked_on": "2026-11-22",
+      "added_from": "db-backfill",
+      "db_fact_id": 282
+    },
+    {
+      "id": 87,
+      "topic": "attraction",
+      "claim": "China newly designated 19 five-A tourist attractions in 2024, along with 22 national-level tourist resorts.",
+      "figure": "19 new 5A sites in 2024",
+      "source_url": "https://zwgk.mct.gov.cn/zfxxgkml/tjxx/202505/t20250530_960335.html",
+      "source_name": "Ministry of Culture and Tourism — 2024 Culture and Tourism Development Statistical Bulletin (文化和旅游部《2024年文化和旅游发展统计公报》)",
+      "checked_on": "2026-11-22",
+      "added_from": "db-backfill",
+      "db_fact_id": 283
+    },
+    {
+      "id": 88,
+      "topic": "culture",
+      "claim": "By the end of 2024 China had built 11,000 intangible-cultural-heritage workshops, and had named 99 national demonstration bases for the productive protection of intangible heritage.",
+      "figure": "11,000 ICH workshops at end-2024",
+      "source_url": "https://zwgk.mct.gov.cn/zfxxgkml/tjxx/202505/t20250530_960335.html",
+      "source_name": "Ministry of Culture and Tourism — 2024 Culture and Tourism Development Statistical Bulletin (文化和旅游部《2024年文化和旅游发展统计公报》)",
+      "checked_on": "2026-11-22",
+      "added_from": "db-backfill",
+      "db_fact_id": 284
+    },
+    {
+      "id": 89,
+      "topic": "park",
+      "claim": "The first five national parks consolidated more than 120 existing protected areas, and five national parks selected nearly 50,000 local residents as ecological rangers.",
+      "figure": "120+ protected areas consolidated",
+      "source_url": "https://www.forestry.gov.cn/c/www/slfh/682878.jhtml",
+      "source_name": "National Forestry and Grassland Administration — Building a protected-area system centred on national parks (国家林业和草原局·构建以国家公园为主体的自然保护地体系新格局)",
+      "checked_on": "2026-11-22",
+      "added_from": "db-backfill",
+      "db_fact_id": 289
+    },
+    {
+      "id": 90,
+      "topic": "park",
+      "claim": "China's National Park Law was passed in September 2025 and took effect on 1 January 2026.",
+      "figure": "1 Jan 2026 National Park Law effective date",
+      "source_url": "https://www.forestry.gov.cn/c/www/slfh/682878.jhtml",
+      "source_name": "National Forestry and Grassland Administration — Building a protected-area system centred on national parks (国家林业和草原局·构建以国家公园为主体的自然保护地体系新格局)",
+      "checked_on": "2026-11-22",
+      "added_from": "db-backfill",
+      "db_fact_id": 290
     }
   ]
 }
