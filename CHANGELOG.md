@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-23 — incremental sync from published articles
+
+- 1 entries added from official-source sentences in newly published articles; 0 candidates skipped (unreachable/non-official/duplicate source).
+
 ## 2026-11-23 — DB backfill
 
 - 5 entries appended from the site's curated `verified_facts` (source URLs already re-checked at DB ingest). Append-only, deduped by claim+source.

@@ -3,7 +3,7 @@
   "homepage": "https://jiunotes.top/en/culture/",
   "license": "CC BY 4.0",
   "checked_on": "2026-11-23",
-  "count": 90,
+  "count": 91,
   "facts": [
     {
       "id": 1,
@@ -895,6 +895,16 @@
       "checked_on": "2026-11-22",
       "added_from": "db-backfill",
       "db_fact_id": 290
+    },
+    {
+      "id": 91,
+      "topic": "culture_rules",
+      "claim": "China's official common language is Putonghua (Mandarin), promoted nationwide since 1998 through the annual National Putonghua Promotion Week held in the third week of September, as confirmed by the Ministry of Education announcement of 2026-09-08.",
+      "figure": "1998",
+      "source_url": "http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202609/t20260908_1449796.html",
+      "checked_on": "2026-11-23",
+      "recheck_by": "2027-02-21",
+      "added_from": "article-sync"
     }
   ]
 }
