@@ -4,7 +4,7 @@ A reference for the Chinese festival and calendar facts that guides most often g
 
 Every row carries **the official Chinese (or UNESCO) source that states it** and **the date it was last checked**. If you copy a date anywhere, copy the check date with it — that is what makes it verifiable at all.
 
-- `facts.json` — the same 91 entries, machine-readable
+- `facts.json` — the same 92 entries, machine-readable
 
 - The human-readable hub: <https://jiunotes.top/en/culture/>
 
@@ -115,6 +115,7 @@ The dates themselves are not secret — China's State Council publishes the holi
 | 89 | `park` | The first five national parks consolidated more than 120 existing protected areas, and five national parks selected nearly 50,000 local residents as ecological rangers. | 120+ protected areas consolidated | [www.forestry.gov.cn](https://www.forestry.gov.cn/c/www/slfh/682878.jhtml) | 2026-11-22 |
 | 90 | `park` | China's National Park Law was passed in September 2025 and took effect on 1 January 2026. | 1 Jan 2026 National Park Law effective date | [www.forestry.gov.cn](https://www.forestry.gov.cn/c/www/slfh/682878.jhtml) | 2026-11-22 |
 | 91 | `culture_rules` | China's official common language is Putonghua (Mandarin), promoted nationwide since 1998 through the annual National Putonghua Promotion Week held in the third week of September, as confirmed by the Ministry of Education announcement of 2026-09-08. | 1998 | [www.moe.gov.cn](http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202609/t20260908_1449796.html) | 2026-11-23 |
+| 92 | `opening_hours` | By the end of 2024, China had 7,046 registered museums, of which 91.46 per cent offered free entry, according to the Ministry of Culture and Tourism. | 2024, | [www.mct.gov.cn](https://www.mct.gov.cn/wlbphone/wlbydd/xxfb/qglb/bj/202505/t20250519_960030.html) | 2026-11-24 |
 ## What is *not* in this file
 
 - **This year's exact festival dates beyond 2026/2027.** The next arrangement is only authoritative once the State Council publishes it (usually each November).

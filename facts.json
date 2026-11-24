@@ -2,8 +2,8 @@
   "dataset": "china-festival-calendar-facts",
   "homepage": "https://jiunotes.top/en/culture/",
   "license": "CC BY 4.0",
-  "checked_on": "2026-11-23",
-  "count": 91,
+  "checked_on": "2026-11-24",
+  "count": 92,
   "facts": [
     {
       "id": 1,
@@ -904,6 +904,16 @@
       "source_url": "http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202609/t20260908_1449796.html",
       "checked_on": "2026-11-23",
       "recheck_by": "2027-02-21",
+      "added_from": "article-sync"
+    },
+    {
+      "id": 92,
+      "topic": "opening_hours",
+      "claim": "By the end of 2024, China had 7,046 registered museums, of which 91.46 per cent offered free entry, according to the Ministry of Culture and Tourism.",
+      "figure": "2024,",
+      "source_url": "https://www.mct.gov.cn/wlbphone/wlbydd/xxfb/qglb/bj/202505/t20250519_960030.html",
+      "checked_on": "2026-11-24",
+      "recheck_by": "2027-02-22",
       "added_from": "article-sync"
     }
   ]
