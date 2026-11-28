@@ -2,8 +2,8 @@
   "dataset": "china-festival-calendar-facts",
   "homepage": "https://jiunotes.top/en/culture/",
   "license": "CC BY 4.0",
-  "checked_on": "2026-11-24",
-  "count": 92,
+  "checked_on": "2026-11-28",
+  "count": 98,
   "facts": [
     {
       "id": 1,
@@ -915,6 +915,72 @@
       "checked_on": "2026-11-24",
       "recheck_by": "2027-02-22",
       "added_from": "article-sync"
+    },
+    {
+      "id": 93,
+      "topic": "culture",
+      "claim": "As of December 2025, China had 45 elements inscribed on UNESCO's Intangible Cultural Heritage lists — the most of any country. The 45th element, the Hezhe Yimakan, was transferred from the Urgent Safeguarding List to the Representative List at the 20th session in December 2025.",
+      "figure": "45 elements (as of Dec 2025)",
+      "source_url": "https://www.ihchina.cn/",
+      "source_name": "China Intangible Cultural Heritage Network (中国非物质文化遗产网, 文旅部)",
+      "checked_on": "2026-11-28",
+      "added_from": "db-backfill",
+      "db_fact_id": 47
+    },
+    {
+      "id": 94,
+      "topic": "landmark",
+      "claim": "China's Great Wall spans 15 provinces, autonomous regions and municipalities, including Beijing, Hebei, Inner Mongolia, Xinjiang and others. The 2012 national survey identified 43,721 heritage sites along it — walls, trenches, standalone structures, passes and related facilities.",
+      "figure": "15 provinces; 43,721 heritage sites Great Wall survey",
+      "source_url": "http://www.ncha.gov.cn/art/2012/6/7/art_722_107227.html",
+      "source_name": "National Cultural Heritage Administration — Great Wall survey & identification results (2012-06-07)",
+      "checked_on": "2026-11-27",
+      "added_from": "db-backfill",
+      "db_fact_id": 396
+    },
+    {
+      "id": 95,
+      "topic": "landmark",
+      "claim": "The Great Wall is one of China's first UNESCO World Heritage sites. Its protection is governed by the Great Wall Protection Regulations issued by the State Council in 2006.",
+      "figure": "first batch World Heritage; 2006 protection regulations Great Wall status",
+      "source_url": "http://www.ncha.gov.cn/art/2012/6/7/art_722_107227.html",
+      "source_name": "National Cultural Heritage Administration — Great Wall survey & identification results (2012-06-07)",
+      "checked_on": "2026-11-27",
+      "added_from": "db-backfill",
+      "db_fact_id": 397
+    },
+    {
+      "id": 96,
+      "topic": "landmark",
+      "claim": "The Forbidden City was inscribed as a UNESCO World Heritage site in 1987. UNESCO describes it as the highest centre of power for more than five centuries and a witness to Ming and Qing civilisation, with 9,000 rooms. It was made a national key cultural relic protection unit in 1961.",
+      "figure": "World Heritage 1987; 9,000 rooms Forbidden City status",
+      "source_url": "http://www.china.com.cn/guoqing/2018-08/22/content_59578778.htm",
+      "source_name": "China.com.cn (中国网) — Forbidden City world heritage feature (2018-08-22)",
+      "checked_on": "2026-11-27",
+      "added_from": "db-backfill",
+      "db_fact_id": 398
+    },
+    {
+      "id": 97,
+      "topic": "landmark",
+      "claim": "The Forbidden City covers 720,000 m² with about 150,000 m² of floor space and more than 9,000 rooms; the walled city measures 961 m north-south by 753 m east-west. It served as the imperial palace for 24 emperors from 1421, when the Ming emperor Zhu Di moved the capital to Beijing, until 1924.",
+      "figure": "720,000 m²; 961 m × 753 m; 24 emperors Forbidden City scale",
+      "source_url": "http://www.china.com.cn/guoqing/2018-08/22/content_59578778.htm",
+      "source_name": "China.com.cn (中国网) — Forbidden City world heritage feature (2018-08-22)",
+      "checked_on": "2026-11-27",
+      "added_from": "db-backfill",
+      "db_fact_id": 399
+    },
+    {
+      "id": 98,
+      "topic": "landmark",
+      "claim": "The Palace Museum was founded and opened to the public on 10 October 1925. Its collection now numbers more than 1.8 million items (sets) across 25 categories, including over 8,000 first-grade objects.",
+      "figure": "founded 1925-10-10; 1.8 million+ items Palace Museum collection",
+      "source_url": "http://www.china.com.cn/guoqing/2018-08/22/content_59578778.htm",
+      "source_name": "China.com.cn (中国网) — Forbidden City world heritage feature (2018-08-22)",
+      "checked_on": "2026-11-27",
+      "added_from": "db-backfill",
+      "db_fact_id": 400
     }
   ]
 }
