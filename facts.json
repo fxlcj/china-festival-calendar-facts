@@ -3,7 +3,7 @@
   "homepage": "https://jiunotes.top/en/culture/",
   "license": "CC BY 4.0",
   "checked_on": "2026-11-28",
-  "count": 98,
+  "count": 102,
   "facts": [
     {
       "id": 1,
@@ -981,6 +981,50 @@
       "checked_on": "2026-11-27",
       "added_from": "db-backfill",
       "db_fact_id": 400
+    },
+    {
+      "id": 99,
+      "topic": "solar_term",
+      "claim": "Xiaoxue (Minor Snow) is the 20th of the 24 solar terms and the second term of winter. China's Meteorological Administration places it around 22 or 23 November each year, when the sun reaches celestial longitude 240 degrees. It is a term that reflects precipitation and temperature: cold waves and strong cold air become more frequent, and the weather turns progressively colder with more precipitation.",
+      "figure": "20th term; 22-23 Nov; longitude 240 degrees order, date and solar longitude",
+      "source_url": "https://www.cma.gov.cn/ztbd/2026zt/24jq/xiaoxue/index.html",
+      "source_name": "中国气象局 二十四节气·小雪专题 (cma.gov.cn)",
+      "checked_on": "2026-11-28",
+      "added_from": "db-backfill",
+      "db_fact_id": 424
+    },
+    {
+      "id": 100,
+      "topic": "solar_term",
+      "claim": "At the Xiaoxue term, ground temperatures differ sharply across China. Using the 1991-2020 long-term average, China's Meteorological Administration records ground temperature at Harbin at minus 8.53 degrees Celsius, around 0.3 degrees at Beijing, 19.83 degrees at Guangzhou and 23.41 degrees at Haikou - a north-south gap of more than 30 degrees Celsius in the same solar term.",
+      "figure": "-8.53 / 0.3 / 19.83 / 23.41 degC (1991-2020) long-term average ground temperature",
+      "source_url": "https://www.cma.gov.cn/ztbd/2026zt/24jq/xiaoxue/index.html",
+      "source_name": "中国气象局 二十四节气·小雪专题 (cma.gov.cn)",
+      "checked_on": "2026-11-28",
+      "added_from": "db-backfill",
+      "db_fact_id": 425
+    },
+    {
+      "id": 101,
+      "topic": "solar_term",
+      "claim": "Lidong (Start of Winter) is the 19th of the 24 solar terms and marks the beginning of winter. China's Meteorological Administration places it between 7 and 8 November each year, when the sun reaches celestial longitude 225 degrees. It is one of the four 'li' terms together with Lichun, Lixia and Liqiu.",
+      "figure": "19th term; 7-8 Nov; longitude 225 degrees order, date and solar longitude",
+      "source_url": "https://www.cma.gov.cn/ztbd/2026zt/24jq/lidong/index.html",
+      "source_name": "中国气象局 二十四节气·立冬专题 (cma.gov.cn)",
+      "checked_on": "2026-11-28",
+      "added_from": "db-backfill",
+      "db_fact_id": 426
+    },
+    {
+      "id": 102,
+      "topic": "solar_term",
+      "claim": "China's Meteorological Administration defines the meteorological start of winter by temperature, not by the calendar: when the five-day moving average temperature stays below 10 degrees Celsius, the first date of that sequence is taken as the start of winter. On this measure the earliest regions enter winter in early October and the latest in late December, while places such as Haikou never reach the standard.",
+      "figure": "5 consecutive days below 10 degC meteorological winter-onset criterion",
+      "source_url": "https://www.cma.gov.cn/ztbd/2026zt/24jq/lidong/index.html",
+      "source_name": "中国气象局 二十四节气·立冬专题 (cma.gov.cn)",
+      "checked_on": "2026-11-28",
+      "added_from": "db-backfill",
+      "db_fact_id": 427
     }
   ]
 }

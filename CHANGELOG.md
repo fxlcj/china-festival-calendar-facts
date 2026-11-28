@@ -2,6 +2,10 @@
 
 ## 2026-11-28 — DB backfill
 
+- 4 entries appended from the site's curated `verified_facts` (source URLs already re-checked at DB ingest). Append-only, deduped by claim+source.
+
+## 2026-11-28 — DB backfill
+
 - 6 entries appended from the site's curated `verified_facts` (source URLs already re-checked at DB ingest). Append-only, deduped by claim+source.
 
 ## 2026-11-24 — incremental sync from published articles
