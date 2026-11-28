@@ -168,7 +168,7 @@ The official source URL in each row remains the authority. The CDN is only a cop
 
 **Jiu's Sharing Station Data Use License (JSS-DUL) v1.0** - see [LICENSE](LICENSE).
 
-Free for search-engine indexing and short, credited quotes (up to 20 facts). Bulk download, republication under another domain, commercial use, and AI-model training require our prior written permission. Open an issue here or email you@jiunotes.top to ask.
+Free for search-engine indexing and short, credited quotes (up to 20 facts; please link to the specific page where possible). Bulk download, republication under another domain, building a competing database, commercial use, and AI-model training require our prior written permission. This license is limited, non-exclusive, non-transferable, and revocable. Open an issue here or email you@jiunotes.top to ask.
 
 ## Contributing
 

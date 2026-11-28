@@ -10,7 +10,7 @@ You may, without asking us and free of charge:
 
 (a) allow search engines to crawl, index, and display the Data in search results, including in snippets and AI-generated answer panels that link back to this repository or to jiunotes.top;
 
-(b) quote or reproduce a small excerpt of the Data - no more than 20 individual facts in total - in an article, report, or educational or reference material, provided that you credit "Jiu's Sharing Station", link to https://jiunotes.top, keep the official source link shown with each fact, and do not suggest that we endorse you or your work;
+(b) quote or reproduce a small excerpt of the Data - no more than 20 individual facts in total - in an article, report, or educational or reference material, provided that you credit "Jiu's Sharing Station", link to https://jiunotes.top and, where possible, to the specific page containing the facts you use rather than only to the home page, keep the official source link shown with each fact, and do not suggest that we endorse you or your work;
 
 (c) use the Data for private study or non-commercial research.
 
@@ -26,11 +26,13 @@ The following are not covered by the free use above and require our prior writte
 
 (d) including the Data in a product, service, or dataset made available to third parties;
 
-(e) using the Data to train, fine-tune, or evaluate machine-learning or other AI models.
+(e) using the Data to train, fine-tune, or evaluate machine-learning or other AI models;
+
+(f) building, expanding, or operating a competing database, directory, search service, or AI knowledge base for which the Data is a primary source.
 
 3. RESERVED RIGHTS
 
-We reserve all rights not expressly granted in this license. The selection, arrangement, and descriptive wording of the Data are protected as a compilation. Individual facts are drawn from the official sources cited in each row, and those sources remain authoritative. Nothing in this license transfers ownership of the Data to you.
+The permission granted here is a limited, non-exclusive, non-transferable, revocable license, which we may withdraw at any time. We reserve all rights not expressly granted in this license. The selection, arrangement, and descriptive wording of the Data are protected as a compilation. Individual facts are drawn from the official sources cited in each row, and those sources remain authoritative. Nothing in this license transfers ownership of the Data to you.
 
 4. ATTRIBUTION
 
@@ -54,4 +56,4 @@ If any provision of this license cannot be enforced, the remaining provisions st
 
 ---
 
-Plain-language summary (for convenience only; the terms above govern): search engines may index this data for free. Short, credited quotes are welcome. Taking the whole database, republishing it under another domain, using it commercially, or feeding it into an AI model needs our written permission first.
+Plain-language summary (for convenience only; the terms above govern): search engines may index this data for free. Short, credited quotes are welcome - please link to the specific page where possible. Taking the whole database, republishing it under another domain, building a competing database from it, using it commercially, or feeding it into an AI model needs our written permission first. This license is limited, non-exclusive, non-transferable, and revocable.
